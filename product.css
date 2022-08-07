@@ -1,0 +1,23 @@
+.banana{
+    letter-spacing: 1px;
+}
+div {
+border: 1px ;
+
+padding-top: 3px;
+padding-right: 30px;
+padding-bottom: 50px;
+padding-left: 80px;
+}
+img{
+border: 30px;
+padding-top: 3px;
+padding-right: 50px;
+}
+.mango{
+letter-spacing: 1px;
+}
+footer{
+    padding: 22px;
+    background-color: rgb(17, 177, 206);
+  }
